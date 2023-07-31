@@ -10,6 +10,9 @@
 }
 body{
     background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 h1{
@@ -62,10 +65,7 @@ a:hover{
 
 .lista-menu_titulo{
     dolor: var(--laranja);
-}
-
-body {
-    background-color: var(--cor-de-fundo);
+    font-weight: 700;
 }
 
 .lista-menu_link {
