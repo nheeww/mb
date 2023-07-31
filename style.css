@@ -64,3 +64,10 @@ a:hover{
 body {
     background-color: var(--cor-de-fundo);
 }
+
+.lista-menu_link {
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
